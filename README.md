@@ -1,20 +1,26 @@
-# Demo course template
-## About this course
-This course...
+# IoT Application Programming
+## About this material
+This material introduces the main components for programming simple IoT applications for undergraduate studtens which have completed a basic computer programming course. The main goal is to extend basic programming concepts like inputs and outputs to computer programas so that IoT 
+
+co various protocols designed for the implementation of the Internet of Things (IoT) applications
 
 ## Main topics
-* This
-* That
+* IoT Network Architecture 
+* IoT Data Flow Models: Push and Pull   
+* IoT Network Protocols: HTTP and MQTT
+* IoT Data Storage Models: Time-based and Realtional-based
+* IoT Visualization Tools
+* IoT Analytic Models: Descriptive and Predictive
 
 ## What you will learn
-* This
-* That
-* ...
+* Collect sensor data from remote nodes using different network protocols
+* Visualize collected data using diferent formats and graphics
+* Run analysis on collected data and produce data outputs  
+* Send data to remote nodes and trigger actions
 
 ## What you will need:
-* (Replace with list of required skills / knowledge)
-* (Specify also if any hardware / lab is required)
-
+* Basic knowledge of Python language
+* Computer with Internet access 
 
 ***
 [![CC BY 4.0][cc-by-shield]][cc-by]
