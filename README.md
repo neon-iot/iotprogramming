@@ -1,8 +1,6 @@
 # IoT Application Programming
 ## About this material
-This material introduces the main components for programming simple IoT applications for undergraduate studtens which have completed a basic computer programming course. The main goal is to extend basic programming concepts like inputs and outputs to computer programas so that IoT 
-
-co various protocols designed for the implementation of the Internet of Things (IoT) applications
+This material introduces the main components for programming simple IoT applications for undergraduate studtens which have completed a basic computer programming course. The main goal is to extend basic computer programs which most likely use the keyboard and screen as inputs and outputs to applications that can interacts with remote IoT nodes (which are available on an online laboratory). The use of soecific network protocols such HTTP and MQTT is explained with practical examples using Python language. Besides, this language is also used to discuss data storage and analysis models.
 
 ## Main topics
 * IoT Network Architecture 
