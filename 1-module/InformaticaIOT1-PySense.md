@@ -55,7 +55,7 @@ Cada dispositivo ofrece diferentes métodos (similar a lo que sucede con las cad
 node.help()
 ```
 
-    Returns the pitchj value of the accelerometer
+    Returns the pitch value of the accelerometer
     	Example: <device>.get('pitch')
     
     Returns humidity value
@@ -108,19 +108,18 @@ Diferentes intensidades para el color rojo:
 - ![0x000000](https://via.placeholder.com/15/000000/000000?text=+) Rojo apagado o negro (0,0,0) 0x000000
 
 Diferentes intensidades para el color verde:
-- <font color='#00ff00'>Verde más claro (0,255,0) 0x00ff00</font>
-- <font color='#008000'>Verde poco claro (0,128,0) 0x008000</font>
-- <font color='#004000'>Verde muy oscuro (0,64,0) 0x004000</font>
-- <font color='#000000'>Verde apagado (0,0,0) 0x000000</font>
+- ![0x00ff00](https://via.placeholder.com/15/00ff00/000000?text=+) Verde más claro (0,255,0) 0x00ff00
+- ![0x008000](https://via.placeholder.com/15/008000/000000?text=+) Verde poco claro (0,128,0) 0x008000
+- ![0x004000](https://via.placeholder.com/15/004000/000000?text=+) Verde muy oscuro (0,64,0) 0x004000
+- ![0x000000](https://via.placeholder.com/15/000000/000000?text=+) Verde apagado o negro (0,0,0) 0x000000
 
 Diferentes intensidades para el color azul:
-- <font color='#0000ff'>Azul más claro (0,0,255) 0x0000ff</font>
-- <font color='#000080'>Azul poco claro (0,0,128) 0x000080</font>
-- <font color='#000040'>Azul muy oscuro (0,0,64) 0x000040</font>
-- <font color='#000000'>Azul apagado (0,0,0) 0x000000</font>
+- ![0x0000ff](https://via.placeholder.com/15/0000ff/000000?text=+) Azul más claro (0,0,255) 0x0000ff
+- ![0x000080](https://via.placeholder.com/15/000080/000000?text=+) Azul poco claro (0,0,128) 0x000080
+- ![0x000040](https://via.placeholder.com/15/000040/000000?text=+) Azul muy oscuro (0,0,64) 0x000040
+- ![0x000000](https://via.placeholder.com/15/000000/000000?text=+) Azul apagado o negro (0,0,0) 0x000000
 
 También podemos mezclar estos dos de estos colores en sus máximas intensidades y obtener colores secundarios:
-
 - <font color='#ffff00'>Amarillo (255,255,0) 0xffff00</font>
 - <font color='#00ffff'>Cian (0,255,255) 0x00ffff</font>
 - <font color='#ff00ff'>Magenta o fucsia (255,0,255) 0xff00ff</font>
