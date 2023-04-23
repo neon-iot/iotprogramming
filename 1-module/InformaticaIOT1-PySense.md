@@ -102,6 +102,7 @@ El modelo RGB (Red, Green, Blue) permite representar un color mediante la mezcla
 Esto nos permite configurar una amplia variedad de colores. Podemos primero pensar en encender sólo alguno de los colores (canales) con diferentes intensidades dentro del rango disponible de [0,255] o [0x00,0xff].
 
 Diferentes intensidades para el color rojo:
+- The background color is `#ffffff` for light mode and `#000000` for dark mode.
 - <font color='#ff0000'>Rojo más claro (255,0,0) 0xff0000</font>
 - <font color='#800000'>Rojo poco claro (128,0,0) 0x800000</font>
 - <font color='#400000'>Rojo muy oscuro (64,0,0) 0x400000</font>
