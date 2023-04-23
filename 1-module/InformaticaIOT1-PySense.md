@@ -102,10 +102,10 @@ El modelo RGB (Red, Green, Blue) permite representar un color mediante la mezcla
 Esto nos permite configurar una amplia variedad de colores. Podemos primero pensar en encender sólo alguno de los colores (canales) con diferentes intensidades dentro del rango disponible de [0,255] o [0x00,0xff].
 
 Diferentes intensidades para el color rojo:
-- ![qq](https://via.placeholder.com/15/ff0000/000000?text=+) Rojo más claro (255,0,0) 0xff0000
-- !(https://via.placeholder.com/15/800000/000000?text=+) Rojo poco claro (128,0,0) 0x800000
-- !(https://via.placeholder.com/15/400000/000000?text=+) Rojo muy oscuro (64,0,0) 0x400000
-- !(https://via.placeholder.com/15/000000/000000?text=+) Rojo apagado (0,0,0) 0x000000
+- ![0xff0000](https://via.placeholder.com/15/ff0000/000000?text=+) Rojo más claro (255,0,0) 0xff0000
+- ![0x800000](https://via.placeholder.com/15/800000/000000?text=+) Rojo poco claro (128,0,0) 0x800000
+- ![0x400000](https://via.placeholder.com/15/400000/000000?text=+) Rojo muy oscuro (64,0,0) 0x400000
+- ![0x000000](https://via.placeholder.com/15/000000/000000?text=+) Rojo apagado o negro (0,0,0) 0x000000
 
 Diferentes intensidades para el color verde:
 - <font color='#00ff00'>Verde más claro (0,255,0) 0x00ff00</font>
