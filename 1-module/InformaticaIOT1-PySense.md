@@ -13,7 +13,7 @@ El dispositivo Pycom GPy/Pysense tiene un actuador: una luz LED RGB (WS2812), y 
 - Presión barométrica (MPL3115A2)
 - Aceleración (LIS2HH12)
 
-![PySenseSensoresLed%20.png](attachment:PySenseSensoresLed%20.png)
+![PySenseSensoresLed20.png](PySenseSensoresLed%20.png)
 
 En este proyecto utilizaremos el dispositivo IoT para programar un monitor de diferentes variables ambientales (temperatura, humedad y luz). El objetivo es que el dispositivo sea capaz de leer estas variables del ambiente y representarlas utilizando un determinado color que encenderá en su luz LED. En esta etapa sólo utilizaremos los conceptos de la primera unidad de Informática (Operaciones), pero en cada nueva unidad introduciremos mejoras en nuestro proyecto.
 
