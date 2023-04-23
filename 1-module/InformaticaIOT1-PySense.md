@@ -120,32 +120,24 @@ Diferentes intensidades para el color azul:
 - ![0x000000](https://via.placeholder.com/15/000000/000000?text=+) Azul apagado o negro (0,0,0) 0x000000
 
 También podemos mezclar estos dos de estos colores en sus máximas intensidades y obtener colores secundarios:
-- <font color='#ffff00'>Amarillo (255,255,0) 0xffff00</font>
-- <font color='#00ffff'>Cian (0,255,255) 0x00ffff</font>
-- <font color='#ff00ff'>Magenta o fucsia (255,0,255) 0xff00ff</font>
+- ![0xffff00](https://via.placeholder.com/15/ffff00/000000?text=+) Amarillo (255,255,0) 0xffff00
+- ![0x00ffff](https://via.placeholder.com/15/00ffff/000000?text=+) Cian (0,255,255) 0x00ffff
+- ![0xff00ff](https://via.placeholder.com/15/ff00ff/000000?text=+) Magenta o fucsia (255,0,255) 0xff00ff
 
 En general, podemos mezclar los tres colores RGB y obtener nuevos colores:
-- <font color='#ff8000'>Naranja (255,128,0) 0xff8000</font>
-- <font color='#ff0080'>Rosa (255,0,128) 0xff0080</font>
+- ![0xff8000](https://via.placeholder.com/15/ff8000/000000?text=+) Naranja (255,128,0) 0xff8000
+- ![0xff0080](https://via.placeholder.com/15/ff0080/000000?text=+) Rosa (255,0,128) 0xff0080
 
 Finalmente, existe dos casos extremos
-- <font color='#ffffff'>Blanco (255,255,255) 0xffffff</font> (Seleccionar para ver el blanco)
-- <font color='#000000'>Negro (Apagado)  (0,0,0) 0x000000</font>
+- ![0xffffff](https://via.placeholder.com/15/ffffff/000000?text=+) Blanco (255,255,255) 0xffffff 
+- ![0x000000](https://via.placeholder.com/15/000000/000000?text=+) Negro (Apagado)  (0,0,0) 0x000000
 
 
 El siguiente método permite encender el LED RGB con un color determinado y por una cierta duración expresada en segundos
 
-
 ```python
 node.post('color', color=0xff00ff, duration=10)
 ```
-
-
-
-
-    'OK'
-
-
 
 Podemos solicitar la intensidad de cada uno de los colores RGB dentro del rango [0,255] y luego generar el valor correspondiente en hexadecimal. Utilizamos los operadores de formato para que construyan una cadena con el valor hexadecimal deseado y luego convertimos esa cadena a un valor entero pero en base hexadecimal.
 
