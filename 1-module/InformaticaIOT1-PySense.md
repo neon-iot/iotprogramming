@@ -1,6 +1,6 @@
 # Proyecto de Internet de las Cosas: Monitor de Ambiente
 
-Los dispositivos de Internet de las Cosas o IoT (Internet of Things) nos permiten interactuar con el entorno físico a través de [transductores](https://es.wikipedia.org/wiki/Transductor). Existen dos tipos de transdcutores:
+Los dispositivos de Internet de las Cosas o IoT (Internet of Things) nos permiten interactuar con el entorno físico a través de [transductores](https://es.wikipedia.org/wiki/Transductor). Existen dos tipos de transductores:
 - los *sensores* que detectan formas de energía, como pueden ser luz o fuerza, y las convierten en una salida de información legible, y
 - los *actuadores* que reciben información y producen una salida consistente en alguna forma de energía física, como pueden ser luz o fuerza.
 
