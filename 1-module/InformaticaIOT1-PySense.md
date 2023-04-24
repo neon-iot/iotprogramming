@@ -86,7 +86,6 @@ node.help()
     	Example: <device>.post('color', color=<value>, duration=<value>)
     
 
-
 # Interacción con actuadores y sensores
 
 ## Luz LED RGB
@@ -204,13 +203,6 @@ node.post('color', color=rgb_int, duration=10)
     Color Rojo: 0x360000 (54)
 
 
-
-
-
-    'OK'
-
-
-
 ## Monitor de Humedad: Intensidad del Color Verde (G) 
 
 
@@ -232,13 +224,6 @@ node.post('color', color=rgb_int, duration=10)
     Color Verde: 0x009b00 (155)
 
 
-
-
-
-    'OK'
-
-
-
 ## Monitor de Luz: Intensidad del Color Azul (B)
 
 
@@ -258,13 +243,6 @@ node.post('color', color=rgb_int, duration=10)
 
     Iluminancia: 3104.333
     Color Azul: 0x00000c (12)
-
-
-
-
-
-    'OK'
-
 
 
 # Desafío: Monitor Ambiental Integrado
@@ -290,11 +268,4 @@ node.post('color', color=rgb_int, duration=10)
 
     Temperatura: 30.43506 55.06710905263158 Humedad: 54.28366 154.4068551111111 Iluminancia: 138.2982 0.5532328864426386
     0x379a00
-
-
-
-
-
-    'OK'
-
 
