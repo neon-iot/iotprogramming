@@ -6,8 +6,8 @@ Los dispositivos de Internet de las Cosas o IoT (Internet of Things) nos permite
 
 El dispositivo Pycom GPy/Pysense tiene un actuador: una luz LED RGB (WS2812), y los siguientes sensores:
 - Temperatura y Humedad: [SI7006A20](https://www.silabs.com/sensors/humidity/si7006-13-20-21-34/device.si7006-a20-im?tab=specs) [(pdf)](https://www.silabs.com/documents/public/data-sheets/Si7006-A20.pdf)
-   - Temperatura (&deg;C): -10 a 85 $^\circ$C con error $\pm$1&deg;C
-   - Humedad relativa (%): 0 a 90% con error $\pm$5%
+   - Temperatura (&deg;C): -10 a 85 $^\circ$C con error &plusmn;1&deg;C
+   - Humedad relativa (%): 0 a 90% con error &plusmn;5%
 - Luz: [LTR329ALS01](https://optoelectronics.liteon.com/en-global/led/index/Detail/926)[(pdf)](https://optoelectronics.liteon.com/upload/download/DS86-2014-0006/LTR-329ALS-01_DS_V1.6.PDF)
    - Iluminancia: 0.01 a 64K lux (lúmenes por metro cuadrado)
 - Presión barométrica (MPL3115A2)
