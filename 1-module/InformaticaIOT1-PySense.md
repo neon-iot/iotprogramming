@@ -93,11 +93,11 @@ node.help()
 
 La luz LED RGB representa el único actuador disponible en el dispositivo (ya que el resto son sensores). Podemos controlar la luz LED RGB a través del método .post() que envía al dispositivo el color y el tiempo con el que queremos encender la luz.
 
-![traffic.gif](attachment:traffic.gif)
+![traffic.gif](traffic.gif)
 
 El modelo RGB (Red, Green, Blue) permite representar un color mediante la mezcla por adición de los tres colores de luz primarios: rojo, verde y azul. La intensidad de cada una de las componentes se mide según una escala que va del 0 al 255 (1 byte). También suele utilizarse el sistema hexadecimal para representar esta intensidad desde 0x00 (0) hasta 0xff (255). El valor 0 es el más apagado u oscuro (negro) mientras que el valor 255 el más claro o brillante.
 
-![RGB_color_solid_cube.png](attachment:RGB_color_solid_cube.png)
+![RGB_color_solid_cube.png](RGB_color_solid_cube.png)
 
 Esto nos permite configurar una amplia variedad de colores. Podemos primero pensar en encender sólo alguno de los colores (canales) con diferentes intensidades dentro del rango disponible de [0,255] o [0x00,0xff].
 
