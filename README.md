@@ -23,6 +23,7 @@ This material introduces the main components for programming simple IoT applicat
 ## Authors:
 * [Jorge M Finochietto](https://ar.linkedin.com/in/jfinochietto?trk=profile-badge)
 * [Ramiro Detke](https://www.linkedin.com/in/ramiro-fernando-detke/)  
+* [Matías Raya Plasencia](https://fcefyn.unc.edu.ar/perfiles/mraya)
 
 ***
 [![CC BY 4.0][cc-by-shield]][cc-by]
