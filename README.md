@@ -20,6 +20,10 @@ This material introduces the main components for programming simple IoT applicat
 * Basic knowledge of Python language
 * Computer with Internet access 
 
+## Authors:
+* [Jorge M Finochietto] (https://ar.linkedin.com/in/jfinochietto?trk=profile-badge)
+* [Ramiro Detke](https://www.linkedin.com/in/ramiro-fernando-detke/)  
+
 ***
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
