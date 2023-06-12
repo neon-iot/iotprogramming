@@ -21,7 +21,7 @@ This material introduces the main components for programming simple IoT applicat
 * Computer with Internet access 
 
 ## Authors:
-* [Jorge M Finochietto] (https://ar.linkedin.com/in/jfinochietto?trk=profile-badge)
+* [Jorge M Finochietto](https://ar.linkedin.com/in/jfinochietto?trk=profile-badge)
 * [Ramiro Detke](https://www.linkedin.com/in/ramiro-fernando-detke/)  
 
 ***
